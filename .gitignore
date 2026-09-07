@@ -1,0 +1,6 @@
+*.pak
+*.zip
+.env
+.env.*
+*.db
+*.sqlite*
